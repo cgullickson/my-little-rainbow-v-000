@@ -1,5 +1,5 @@
 div {
-  border: 20px solid #000; /* this is short hand for setting 
+  border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -23,21 +23,21 @@ div {
 }
 
 #blue {
-  color:blue;
+  border-top-color:blue;
 }
 
 #green {
-  color:green;
+  border-top-color:green;
 }
 
 #blue {
-  color:blue;
+  border-top-color:blue;
 }
 
 #green {
-  color:indigo;
+  border-top-color:indigo;
 }
 
 #violet {
-  color:violet;
+  border-top-color:violet;
 }
